@@ -1,6 +1,6 @@
 package operator;
 
-public class OperatorEquality {
+public class OperatorEqualityDanRelational {
     public static void main(String[] args) {
         int i = 5;
         int j = 6;
